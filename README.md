@@ -16,3 +16,7 @@
 
 **4- Including Css File**
 -  \<link  href="/lib/bootstrap/css/bootstrap.min.css"  rel="stylesheet"  />
+
+**- Screenshot of CRUD Inventory Project**
+
+![Ekran görüntüsü 2024-05-27 081510](https://github.com/yigitalpkaynak/FormsApp/assets/71692297/d71165ee-350b-49d4-92f6-9b64db63201a)
